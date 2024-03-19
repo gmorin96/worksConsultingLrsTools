@@ -13,7 +13,7 @@ metadata = {
 
 class inputs:
     """--------------------
-Contains messageHeader() and initialChecks() functions to assist in data checks and attributes.
+Contains initialChecks() functions to assist in data checks and attributes.
 --------------------
 """
 
